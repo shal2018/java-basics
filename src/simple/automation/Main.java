@@ -16,7 +16,7 @@ public class Main {
 
         List<String> strings = new ArrayList<>();
         strings.add("1");
-        strings.add("2");
+        strings.add("222");
         strings.add("3");
         System.out.println(strings);
 
@@ -25,7 +25,7 @@ public class Main {
 
         Map<String, Integer> digetMap = new HashMap<>();
         digetMap.put("1",1);
-        digetMap.put("2",2);
+        digetMap.put("222",2);
         digetMap.put("3",3);
         System.out.println(digetMap);
 
